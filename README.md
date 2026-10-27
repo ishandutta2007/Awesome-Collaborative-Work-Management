@@ -63,57 +63,57 @@ The following table benchmarks category-leading SaaS Collaborative Work Manageme
 
 Explore the premier self-hostable, privacy-focused open-source alternatives to proprietary Work OS and project management suites. 
 
-The list below is sorted in descending order by **GitHub Star Counts**:
+The list below is sorted in descending order by **GitHub Stars_Counts**:
 
-1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    *Open-source Notion alternative built with Flutter and Rust.* Provides local-first data ownership, offline-native architecture, block-based documents, kanban task boards, grid databases, and cross-platform desktop/mobile sync. *(AGPL-3.0)*
 
-2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
    *Next-generation collaborative workspace.* Unifies markdown documents, unbounded visual whiteboards, and structured database tables on a single canvas with local-first privacy and real-time multiplayer editing. *(MPL-2.0)*
 
-3. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+3. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    *Open-source Airtable alternative.* Connects directly to existing production relational databases (PostgreSQL, MySQL, SQLite, SQL Server) and transforms them into interactive smart spreadsheets with Kanban, Gallery, Grid, and Form views. *(AGPL-3.0)*
 
-4. **[Plane](https://github.com/makeplane/plane)** [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
+4. **[Plane](https://github.com/makeplane/plane)** [![GitHub_Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers)  
    *Modern, AI-assisted project management platform (Jira, Linear, and Asana alternative).* Features sprint cycles, burn-down analytics, issue modules, rich-text collaborative pages, and five layout views (List, Board, Spreadsheet, Gantt, Calendar). *(AGPL-3.0)*
 
-5. **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
+5. **[Focalboard](https://github.com/mattermost-community/focalboard)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost-community/focalboard?style=social&color=white)](https://github.com/mattermost-community/focalboard/stargazers)  
    *Self-hosted open-source work organizer (Trello, Notion, and Asana alternative).* Developed by Mattermost to coordinate tasks and sprints with customizable boards, tables, and card templates; integrates with Mattermost channels. *(MIT / AGPL-3.0)*
 
-6. **[Teable](https://github.com/teableio/teable)** [![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
+6. **[Teable](https://github.com/teableio/teable)** [![GitHub_Stars](https://img.shields.io/github/stars/teableio/teable?style=social&color=white)](https://github.com/teableio/teable/stargazers)  
    *High-performance, Postgres-native no-code database.* Blends the speed and mathematical flexibility of native SQL with the intuitive visual work management interface of Airtable. *(AGPL-3.0)*
 
-7. **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
+7. **[Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)  
    *Classic open-source collaborative kanban board.* Offers cards, swimlanes, subtasks, color-coded labels, member assignments, and self-hosted deployment via Docker, Snap, or Sandstorm. *(MIT)*
 
-8. **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
+8. **[OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)  
    *Enterprise-grade open-source project and portfolio management suite.* Delivers interactive Gantt charts, Agile boards (Scrum & Kanban), roadmap tracking, bug reporting, time recording, and cost reporting. *(GPL-3.0)*
 
-9. **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
+9. **[Planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)  
    *Lightweight, real-time kanban board for workgroups.* Built with React and Redux, featuring drag-and-drop task cards, project boards, markdown descriptions, attachments, and real-time collaboration. *(AGPL-3.0)*
 
-10. **[Leantime](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
+10. **[Leantime](https://github.com/Leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)  
     *Strategic work management system for non-project managers.* Combines lean management, Kanban boards, Gantt milestone roadmaps, idea kanbans, and AI-driven coaching for multidisciplinary teams. *(AGPL-3.0)*
 
-11. **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
+11. **[Kanboard](https://github.com/kanboard/kanboard)** [![GitHub_Stars](https://img.shields.io/github/stars/kanboard/kanboard?style=social&color=white)](https://github.com/kanboard/kanboard/stargazers)  
     *Minimalist visual task management system.* Focuses on strict Kanban principles with Work-in-Progress (WIP) limits, visual swimlanes, automated card actions, and lightweight footprint. *(MIT)*
 
-12. **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+12. **[Baserow](https://github.com/baserow/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
     *Modular open-source no-code relational database and work management tool.* Enables organizations to build relational data models, custom internal tools, and collaborative task trackers without vendor lock-in. *(MIT)*
 
-13. **[Redmine](https://github.com/redmine/redmine)** [![GitHub stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
+13. **[Redmine](https://github.com/redmine/redmine)** [![GitHub_Stars](https://img.shields.io/github/stars/redmine/redmine?style=social&color=white)](https://github.com/redmine/redmine/stargazers)  
     *Time-tested web-based project management and issue tracker.* Written in Ruby on Rails, featuring multi-project support, role-based access control, Gantt charts, calendars, wikis, and issue lifecycle tracking. *(GPL-2.0)*
 
-14. **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
+14. **[Vikunja](https://github.com/go-vikunja/vikunja)** [![GitHub_Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=social&color=white)](https://github.com/go-vikunja/vikunja/stargazers)  
     *Modern, end-to-end to-do and work organizer.* Features list, kanban, table, and Gantt timeline views, recurring deadlines, task reminders, attachments, and CalDAV synchronization. *(AGPL-3.0)*
 
-15. **[Restyaboard](https://github.com/RestyaPlatform/board)** [![GitHub stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
+15. **[Restyaboard](https://github.com/RestyaPlatform/board)** [![GitHub_Stars](https://img.shields.io/github/stars/RestyaPlatform/board?style=social&color=white)](https://github.com/RestyaPlatform/board/stargazers)  
     *Enterprise kanban platform and Trello alternative.* Provides real-time synchronization, offline support, custom fields, chat integration, and multi-organization administration. *(OSL-3.0)*
 
-16. **[Taiga](https://github.com/kaleidos-ventures/taiga)** [![GitHub stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga?style=social&color=white)](https://github.com/kaleidos-ventures/taiga/stargazers)  
+16. **[Taiga](https://github.com/kaleidos-ventures/taiga)** [![GitHub_Stars](https://img.shields.io/github/stars/kaleidos-ventures/taiga?style=social&color=white)](https://github.com/kaleidos-ventures/taiga/stargazers)  
     *Agile project management system for developers and cross-functional teams.* Provides dedicated Scrum backlogs, sprint planning estimations, Kanban swimlanes, and issue management. *(MPL-2.0)*
 
-17. **[Werkyn](https://github.com/rackstead/werkyn)** [![GitHub stars](https://img.shields.io/github/stars/rackstead/werkyn?style=social&color=white)](https://github.com/rackstead/werkyn/stargazers)  
+17. **[Werkyn](https://github.com/rackstead/werkyn)** [![GitHub_Stars](https://img.shields.io/github/stars/rackstead/werkyn?style=social&color=white)](https://github.com/rackstead/werkyn/stargazers)  
     *Open-source project management and collaboration workspace.* Delivers kanban boards, Notion-like collaborative docs, team file storage, dependency trees, and live WebSocket updates via Docker. *(GPL-3.0)*
 
 ---
